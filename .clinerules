@@ -1,0 +1,11 @@
+# AI Rules for Antigravity2-cn
+
+When working on this project (translating / localizing Antigravity to Chinese), you MUST follow these guidelines:
+
+## 1. Localization Standards & Mapping
+- `dicts/` contains Simplified Chinese (SC) localization.
+
+## 2. Do NOT Run Installer Scripts / localization_engine.js
+- You **MUST NOT** run `node localization_engine.js` or any other commands that apply/inject/install the translation to the client application.
+- After finishing the dictionary changes, inform the user that changes are completed. The user will manually run `双击安装中文汉化.bat` to install them.
+
