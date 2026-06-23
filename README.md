@@ -1,5 +1,7 @@
 # Antigravity 2.0 智能编程中文语言包 & 汉化引擎
 
+> **Fork 自**：[qqxpee/antigravity2-cn](https://github.com/qqxpee/antigravity2-cn) — 感谢原作者 [qqxpee](https://github.com/qqxpee) 的辛勤付出！
+
 > **支持系统**：Windows (已内置一键脚本)  
 > **匹配版本**：Antigravity v2.1.4 
 > **核心引擎**：Node.js (无需安装 Python，零依赖，极速极稳)  
@@ -164,4 +166,5 @@ node localization_engine.js --brand-title translated
 * 软件升级时，官方会覆盖 `app.asar` 文件。您无需担心，直接完全退出软件，重新双击运行 **`双击安装中文汉化.bat`** 重新注入一次即可完美恢复中文。
 
 ## 🤝 致谢
-感谢所有参与测试与反馈的贡献者！
+- 感谢原作者 [qqxpee](https://github.com/qqxpee) 开发并开源了本汉化项目：[antigravity2-cn](https://github.com/qqxpee/antigravity2-cn)
+- 感谢所有参与测试与反馈的贡献者！
